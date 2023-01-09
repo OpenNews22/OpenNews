@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://opennews22.github.io/OpenNews/post/</link>
+    <link>http://example.org/post/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jan 2023 08:46:38 -0300</lastBuildDate><atom:link href="https://opennews22.github.io/OpenNews/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jan 2023 08:46:38 -0300</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>El gobierno anuncia nuevas medidas de apoyo a pequeñas empresas durante la crisis económica</title>
-      <link>https://opennews22.github.io/OpenNews/post/post3/</link>
+      <link>http://example.org/post/post3/</link>
       <pubDate>Mon, 09 Jan 2023 08:46:38 -0300</pubDate>
       
-      <guid>https://opennews22.github.io/OpenNews/post/post3/</guid>
+      <guid>http://example.org/post/post3/</guid>
       <description>El gobierno ha anunciado una serie de nuevas medidas de apoyo a pequeñas empresas durante la crisis económica actual. Estas medidas incluyen préstamos a tasas de interés reducidas y programas de capacitación y asesoramiento para ayudar a las pequeñas empresas a superar los desafíos económicos.
 Según el ministro de Asuntos Económicos, John Smith, &amp;ldquo;las pequeñas empresas son el motor de nuestra economía y es importante que hagamos todo lo posible para ayudarlas a sobrevivir y prosperar durante estos tiempos difíciles&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Gran victoria para el equipo olímpico nacional en los Juegos Olímpicos de Invierno</title>
-      <link>https://opennews22.github.io/OpenNews/post/post2/</link>
+      <link>http://example.org/post/post2/</link>
       <pubDate>Mon, 09 Jan 2023 08:46:33 -0300</pubDate>
       
-      <guid>https://opennews22.github.io/OpenNews/post/post2/</guid>
+      <guid>http://example.org/post/post2/</guid>
       <description>El equipo olímpico nacional acaba de lograr una gran victoria en los Juegos Olímpicos de Invierno, llevándose a casa un total de cuatro medallas de oro, tres de plata y dos de bronce. Los deportistas han destacado en varias disciplinas, incluyendo esquí alpino, patinaje artístico y hielo.
 La medallista de oro en esquí alpino, Maria Rodriguez, dijo: &amp;ldquo;Estoy muy emocionada y orgullosa de haber representado a mi país en los Juegos Olímpicos.</description>
     </item>
     
     <item>
       <title>Nueva ley de inmigración entra en vigor en el país: ¿qué cambios debes conocer?</title>
-      <link>https://opennews22.github.io/OpenNews/post/post1/</link>
+      <link>http://example.org/post/post1/</link>
       <pubDate>Mon, 09 Jan 2023 08:43:30 -0300</pubDate>
       
-      <guid>https://opennews22.github.io/OpenNews/post/post1/</guid>
+      <guid>http://example.org/post/post1/</guid>
       <description>La nueva ley de inmigración del país ha entrado en vigor, trayendo consigo cambios significativos que es importante conocer si planeas ingresar o residir en el país. Uno de los cambios más notables es la simplificación del proceso de obtención de visas para trabajadores calificados. Ahora, los solicitantes sólo necesitarán presentar una solicitud y una prueba de su experiencia laboral y educación, en lugar de tener que pasar por un proceso de selección de puntaje.</description>
     </item>
     
