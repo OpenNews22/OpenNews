@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://opennews22.github.io/OpenNews/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Open News'
 theme= 'PaperMod'

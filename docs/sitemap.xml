@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/post/post3/</loc>
+    <loc>https://opennews22.github.io/OpenNews/post/post3/</loc>
     <lastmod>2023-01-09T08:46:38-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://opennews22.github.io/OpenNews/</loc>
     <lastmod>2023-01-09T08:46:38-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://opennews22.github.io/OpenNews/post/</loc>
     <lastmod>2023-01-09T08:46:38-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/post2/</loc>
+    <loc>https://opennews22.github.io/OpenNews/post/post2/</loc>
     <lastmod>2023-01-09T08:46:33-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/post1/</loc>
+    <loc>https://opennews22.github.io/OpenNews/post/post1/</loc>
     <lastmod>2023-01-09T08:43:30-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://opennews22.github.io/OpenNews/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://opennews22.github.io/OpenNews/tags/</loc>
   </url>
 </urlset>
